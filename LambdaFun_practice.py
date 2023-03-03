@@ -1,4 +1,6 @@
 """
+Reference: https://www.learncodewithmike.com/2019/12/python-lambda-functions.html#:~:text=Lambda%E5%87%BD%E5%BC%8F%E4%B8%8D%E9%9C%80%E8%A6%81,%E5%8A%A0%E4%B8%8A%20return%20%E9%97%9C%E9%8D%B5%E5%AD%97%E3%80%82
+
 In Python, a lambda function is a special type of function without the function name.
 
 We use the lambda keyword instead of def to create a lambda function. Here's the syntax to declare the lambda function:
